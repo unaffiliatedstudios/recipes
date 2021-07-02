@@ -1,7 +1,6 @@
-# README
+# Recipes
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Recipes is based off a tutorial followed [here](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-ruby-on-rails-project-with-a-react-frontend).
 
 Things you may want to cover:
 
